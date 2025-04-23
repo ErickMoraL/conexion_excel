@@ -17,7 +17,7 @@ Este proyecto es una prueba piloto que permite la edición remota de un archivo 
 ## Instalación
 ### 1. Clona este repositorio
 ```bash
-git clone https://github.com/usuario/proyecto-mcp
+git clone https://github.com/ErickMoraL/conexion_excel
 cd proyecto-mcp
 ```
 ###2. Crea un entorno virtual y activa
